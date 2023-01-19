@@ -1,17 +1,29 @@
-# udacity_datascience1
-Data Science project: Asheville Airbnb
+# Data Science Project: Asheville Airbnb
 
-1. Installations
-Clone the repo: git clone https://github.com/jek1705/udacity_datascience1.git
+## Introduction
 
-2. Project Motivation
-As part of my Udacity Data Science Nanodegree, I explore the Airbnb data for Asheville, NC and try to give some insights for travellers!
+Welcome to our Data Science project on Asheville Airbnb! Our goal is to explore the Airbnb data for Asheville, NC and provide valuable insights for travelers.
 
-3. File Descriptions
-Database is included in the github, as well as the main python files to run the insights.
+## Installation
 
-4. How to Interact with your project
-No contribution is expected. This is a project/test.
+To get started, you can clone the repo by running the following command:
+git clone https://github.com/jek1705/udacity_datascience1.git
 
-5. Licensing, Authors, Acknowledgements, etc.
-Copyright: mention http://insideairbnb.com/
+## Project Motivation
+
+This project is a part of my Udacity Data Science Nanodegree program, where I aim to gain insights from the Airbnb data and help travelers make informed decisions when booking a stay in Asheville.
+
+## File Descriptions
+
+The database is included in the GitHub repository, along with the main Python files to run the insights.
+
+## How to Interact with the Project
+
+This project is for educational purposes only and no contributions are expected. However, feel free to explore the data and insights provided.
+
+## Licensing, Authors, Acknowledgements, etc.
+
+- The data used in this project is from [Inside Airbnb](http://insideairbnb.com/) and is copyright protected.
+- This project is created by Jek1705 as part of the Udacity Data Science Nanodegree program.
+
+Thank you for visiting our project and we hope you find our insights helpful in planning your next trip to Asheville!
