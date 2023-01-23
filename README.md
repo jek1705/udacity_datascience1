@@ -4,6 +4,8 @@
 
 Welcome to our Data Science project on London Housing Prices! Our goal is to explore the housing data for London and provide valuable insights for future London residents.
 
+Checkout our medium post here : https://medium.com/@barkate.jerome/5531cd0429ae
+
 ## Installation
 
 To get started, you can clone the repo by running the following command:
